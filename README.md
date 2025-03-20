@@ -55,6 +55,8 @@ The dataset is organized into several interconnected tables:
   - **Departments:** Provides department IDs and their respective names, categorizing products into broader groups.
   - **Aisles:** Offers aisle IDs and names, further refining the product categorization within departments.
 
+To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project/blob/main/Instacart%20Market%20Basket%20Analysis%20Dataset.pdf)
+
 ---
 
 ## 🛠 Technologies & Tools
