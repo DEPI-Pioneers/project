@@ -72,24 +72,24 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 | **Version Control** | Git, GitHub |
 
 --- 
-# 📌 Methodology
+## 📌 Methodology
 
-## **1. Data Collection & Preprocessing**
+### **1. Data Collection & Preprocessing**
 - Collected **Instacart Market Basket** dataset, integrating multiple tables: **orders, products, users, aisles, and departments**.
 - Cleaned data by handling missing values, removing inconsistencies, and standardizing categorical variables.
 - Engineered features such as **"days since last order," "purchase frequency," and "customer recency."**
 
-## **2. Exploratory Data Analysis (EDA) & Feature Engineering**
+### **2. Exploratory Data Analysis (EDA) & Feature Engineering**
 - Identified **top-selling products, reorder trends,** and **time-series shopping patterns.**
 - Created **basket-level features** (average order size, most purchased category, etc.).
 - Applied **dimensionality reduction (PCA)** for optimizing high-dimensional categorical data.
 
-## **3. Customer Segmentation & Behavioral Analysis**
+### **3. Customer Segmentation & Behavioral Analysis**
 - Used **RFM (Recency, Frequency, Monetary) analysis** to classify customers into high-value, loyal, and churn-risk segments.
 - Implemented **K-Means clustering** for segmentation based on purchase behavior.
 - Conducted **market basket analysis (Apriori Algorithm)** to identify frequently purchased product associations.
 
-## **4. Reporting & Business Recommendations**
+### **4. Reporting & Business Recommendations**
 - Built **interactive dashboards (Power BI, Tableau)** to visualize trends and key insights.
 - Recommended **personalized promotions** and **inventory optimizations** based on customer behavior.
 - Suggested **marketing strategies** to improve customer retention and maximize revenue.
