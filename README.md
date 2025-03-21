@@ -85,11 +85,12 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 ## 👥 Roles & Responsibilities
 
 | Team Member | Role | Responsibilities |
-|-------------|------|----------------|
-| Abdrahman Hakim | **Team Leader & Data Engineer** | Manage data extraction, transformation, and integration. |
-| Suhaila Elnemr | **Data Scientist** | Build predictive models and machine learning algorithms. |
-| Amany Ehab | **Tabeau Developer** | Prepare detailed reports and dashboards using tools like Excel, Power BI, or Tableau. |
-| Shimaa Elsaed | **Business Analyst** | Analyze business processes, data trends, and key performance metrics. |
+|-------------|------|-----------------|
+| **Abdulrahman Hakim** | Team Leader & Data Manipulation | - Oversee the project, manage tasks, and ensure smooth workflow.  <br> - Handle data preprocessing, transformation, and ensure data accuracy.  <br> - *Supports BI & Statistical Analysis when needed.* |
+| **Suhaila Elnemr** | Data Manipulation & Feature Engineering | - Clean, transform, and structure data for analysis.  <br> - Ensure data consistency, handle missing values, and perform feature engineering for potential ML models.  <br> - *Supports BI & Statistical Analysis when needed.* |
+| **Amani Ehab** | Data Visualization & Dashboarding | - Create interactive dashboards using Power BI/Tableau.  <br> - Analyze trends and present data insights effectively.  <br> - *Supports BI & Statistical Analysis when needed.* |
+| **Shaimaa Elsayed** | Business Intelligence & Presentation & Statistical Analysis | - Define KPIs and analyze metrics.  <br> - Extract business insights and perform statistical analysis.  <br> - Lead project presentations. |
+
 
 ---
 
