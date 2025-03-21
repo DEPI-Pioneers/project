@@ -1,4 +1,4 @@
-# 📊 Instacart Market Basket Analysis Dashboard
+![image](https://github.com/user-attachments/assets/38c65c6f-cd0d-4094-bc51-4ede5b8dac9d)# 📊 Instacart Market Basket Analysis Dashboard
 
 ## 🔍 Executive Summary
 The goal of this project is to create an interactive dashboard that provides insights into customer purchasing behavior, product demand, and order patterns using the Instacart Market Basket Analysis dataset. The dashboard will help visualize key metrics and trends, enabling data-driven decision-making for e-commerce and retail analytics.
@@ -10,7 +10,8 @@ The goal of this project is to create an interactive dashboard that provides ins
 2. **Dataset Overview**
 3. **Technologies & Tools**
 4. **Project Timeline & Milestones**
-5. **Contributions & Support**
+5. R**oles & Responsibilities**
+6. **Contributions & Support**
    
 
 ---
@@ -78,6 +79,17 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 | **Phase 4** | Data Transformation & Feature Engineering | 1 week |
 | **Phasa 5** | Dashboard Development in Tableau | 1-2 weeks |
 | **Phase 6** | Final Review, Documentation & Deployment | 5 days |
+
+---
+
+## 👥 Roles & Responsibilities
+
+| Team Member | Role | Responsibilities |
+|-------------|------|----------------|
+| Abdrahman Hakim | **Team Leader & Data Engineer** | Manage data extraction, transformation, and integration. |
+| Suhaila Elnemr | **Data Scientist** | Build predictive models and machine learning algorithms. |
+| Amany Ehab | **Tabeau Developer** | Prepare detailed reports and dashboards using tools like Excel, Power BI, or Tableau. |
+| Shimaa Elsaed | **Business Analyst** | Analyze business processes, data trends, and key performance metrics. |
 
 ---
 
