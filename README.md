@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38c65c6f-cd0d-4094-bc51-4ede5b8dac9d)# 📊 Instacart Market Basket Analysis Dashboard
+📊 Instacart Market Basket Analysis Dashboard
 
 ## 🔍 Executive Summary
 The goal of this project is to create an interactive dashboard that provides insights into customer purchasing behavior, product demand, and order patterns using the Instacart Market Basket Analysis dataset. The dashboard will help visualize key metrics and trends, enabling data-driven decision-making for e-commerce and retail analytics.
