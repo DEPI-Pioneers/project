@@ -95,7 +95,7 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 - Suggested **marketing strategies** to improve customer retention and maximize revenue.
 
 ---
-## 📌. Key Performance Indicators (KPIs)
+## 📌 Key Performance Indicators (KPIs)
 - **Customer Retention Rate:** % of customers placing multiple orders.
 - **Repeat Purchase Ratio:** % of orders from returning customers.
 - **Average Basket Size:** Average number of items per order.
@@ -106,7 +106,7 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 
 ---
 
-## 📌. Metrics
+## 📌 Metrics
 - **Purchase Frequency:** Orders per customer over time.
 - **Avg. Time Between Orders:** Average interval between orders.
 - **Customer Lifetime Value (CLV):** Estimated revenue per customer.
@@ -114,13 +114,13 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 
 ---
 
-## 📌. Customer Segmentation
+## 📌 Customer Segmentation
 - **RFM Analysis:** Based on Recency, Frequency, and Monetary value.
 - **Clustering:** e.g., K-Means to group customers by purchasing behavior.
 
 ---
 
-## 📌. Churn Analysis
+## 📌 Churn Analysis
 - **Churn Rate:** % of customers who become inactive.
 - **Churn Prediction:** Model-based estimation of churn likelihood.
 - **Re-Engagement:** Strategies to win back at-risk customers.
