@@ -9,11 +9,14 @@ The goal of this project is to create an interactive dashboard that provides ins
 1. **Project Objectives**
 2. **Dataset Overview**
 3. **Technologies & Tools**
-4. **Project Timeline & Milestones**
-5. R**oles & Responsibilities**
-6. **Contributions & Support**
-   
-
+4. **Methodology**
+5. **Key Performance Indicators (KPIs)**
+6. **Metrics**
+7. **Customer Segmentation**
+8. **Churn Analysis** 
+9. **Project Timeline & Milestones**
+10. **Roles & Responsibilities**
+11. **Contributions & Support** 
 ---
 
 ## 🏆 Project Objectives
@@ -68,7 +71,61 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 | **Data Management** | SQL |
 | **Version Control** | Git, GitHub |
 
----  
+--- 
+# 📌 Methodology
+
+## **1. Data Collection & Preprocessing**
+- Collected **Instacart Market Basket** dataset, integrating multiple tables: **orders, products, users, aisles, and departments**.
+- Cleaned data by handling missing values, removing inconsistencies, and standardizing categorical variables.
+- Engineered features such as **"days since last order," "purchase frequency," and "customer recency."**
+
+## **2. Exploratory Data Analysis (EDA) & Feature Engineering**
+- Identified **top-selling products, reorder trends,** and **time-series shopping patterns.**
+- Created **basket-level features** (average order size, most purchased category, etc.).
+- Applied **dimensionality reduction (PCA)** for optimizing high-dimensional categorical data.
+
+## **3. Customer Segmentation & Behavioral Analysis**
+- Used **RFM (Recency, Frequency, Monetary) analysis** to classify customers into high-value, loyal, and churn-risk segments.
+- Implemented **K-Means clustering** for segmentation based on purchase behavior.
+- Conducted **market basket analysis (Apriori Algorithm)** to identify frequently purchased product associations.
+
+## **4. Reporting & Business Recommendations**
+- Built **interactive dashboards (Power BI, Tableau)** to visualize trends and key insights.
+- Recommended **personalized promotions** and **inventory optimizations** based on customer behavior.
+- Suggested **marketing strategies** to improve customer retention and maximize revenue.
+
+---
+## 📌. Key Performance Indicators (KPIs)
+- **Customer Retention Rate:** % of customers placing multiple orders.
+- **Repeat Purchase Ratio:** % of orders from returning customers.
+- **Average Basket Size:** Average number of items per order.
+- **Reorder Rate:** % of products reordered.
+- **Average Order Value (AOV):** Average revenue per order.
+- **Peak Shopping Hours:** Hours with the highest order volume.
+- **Product Affinity Score:** Likelihood of products being purchased together.
+
+---
+
+## 📌. Metrics
+- **Purchase Frequency:** Orders per customer over time.
+- **Avg. Time Between Orders:** Average interval between orders.
+- **Customer Lifetime Value (CLV):** Estimated revenue per customer.
+- **Market Basket Lift:** Strength of product associations.
+
+---
+
+## 📌. Customer Segmentation
+- **RFM Analysis:** Based on Recency, Frequency, and Monetary value.
+- **Clustering:** e.g., K-Means to group customers by purchasing behavior.
+
+---
+
+## 📌. Churn Analysis
+- **Churn Rate:** % of customers who become inactive.
+- **Churn Prediction:** Model-based estimation of churn likelihood.
+- **Re-Engagement:** Strategies to win back at-risk customers.
+
+---
 
 ## 📅 Project Timeline & Milestones
 | Phase        | Key Activities | Duration |
