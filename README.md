@@ -146,7 +146,7 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 | [**Abdulrahman Hakim**](https://www.linkedin.com/in/abdelrahman-hakim) | Team Leader & Data Manipulation | - Oversee the project, manage tasks, and ensure smooth workflow.  <br> - Handle data preprocessing, transformation, and ensure data accuracy.  <br> - *Supports BI & Statistical Analysis when needed.* |
 | [**Suhaila Elnemr**](https://www.linkedin.com/in/suhaila-elnemr) | Data Manipulation & Feature Engineering | - Clean, transform, and structure data for analysis.  <br> - Ensure data consistency, handle missing values, and perform feature engineering for potential ML models.  <br> - *Supports BI & Statistical Analysis when needed.* |
 | [**Amany Ehab**](https://www.linkedin.com/in/amany-latif) | Data Visualization & Dashboarding | - Create interactive dashboards using Power BI/Tableau.  <br> - Analyze trends and present data insights effectively.  <br> - *Supports BI & Statistical Analysis when needed.* |
-| [**Shaimaa Elsayed**](linkedin.com/in/shimaa-el-saed-093ba4291) | Business Intelligence & Presentation & Statistical Analysis | - Define KPIs and analyze metrics.  <br> - Extract business insights and perform statistical analysis.  <br> - Lead project presentations. |
+| [**Shaimaa Elsayed**](https://www.linkedin.com/in/shimaa-el-saed-093ba4291) | Business Intelligence & Presentation & Statistical Analysis | - Define KPIs and analyze metrics.  <br> - Extract business insights and perform statistical analysis.  <br> - Lead project presentations. |
 
 
 
