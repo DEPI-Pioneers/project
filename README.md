@@ -95,35 +95,55 @@ To know more about dataset click [HERE](https://github.com/DEPI-Pioneers/project
 - Suggested **marketing strategies** to improve customer retention and maximize revenue.
 
 ---
-## 📌 Key Performance Indicators (KPIs)
-- **Customer Retention Rate:** % of customers placing multiple orders.
-- **Repeat Purchase Ratio:** % of orders from returning customers.
-- **Average Basket Size:** Average number of items per order.
-- **Reorder Rate:** % of products reordered.
-- **Average Order Value (AOV):** Average revenue per order.
-- **Peak Shopping Hours:** Hours with the highest order volume.
-- **Product Affinity Score:** Likelihood of products being purchased together.
+## 📌. KPIs – Key Performance Indicators
+
+- **Total Orders:** The total number of orders placed on the platform.
+- **Total Customers:** The number of unique customers who have made a purchase.
+- **Average Products per Order:** The average number of products purchased in each order.
+- **Reorder Rate:** The percentage of orders that involve repurchasing products.
+- **Top Ordered Products:** A list of the best-selling products.
+- **Most Popular Categories:** The most frequently ordered product categories (e.g., fruits, dairy, beverages).
+- **Average Time Between Orders** Measure the average gap between orders for each customer using the "days_since_prior_order" field.
+- **Peak Order Times:** Identify the hours and days with the highest number of orders using the "order_dow" and "order_hour_of_day" fields.
+- **Total New Customers:** Count the customers who placed their first order, determined by order_number = 1.
+- **Department Orders:** The departments that have the highest number of orders.
+- **Top Products for New Customers:** The products most commonly purchased in a customer’s first order.
+- **Average Time Between Reordering the Same Product:** The average period between repurchases of the same product.
 
 ---
 
-## 📌 Metrics
-- **Purchase Frequency:** Orders per customer over time.
-- **Avg. Time Between Orders:** Average interval between orders.
-- **Customer Lifetime Value (CLV):** Estimated revenue per customer.
-- **Market Basket Lift:** Strength of product associations.
+## 📌. Metrics 
+
+- **Customer Retention Rate:** The percentage of customers who make repeat purchases after their first order.
+- **Average Orders per Customer:** The average frequency of orders per customer.
+- **Most Reordered Products Rate:** Focuses on the products that are repurchased frequently.
 
 ---
 
-## 📌 Customer Segmentation
-- **RFM Analysis:** Based on Recency, Frequency, and Monetary value.
-- **Clustering:** e.g., K-Means to group customers by purchasing behavior.
+## 📌. Segmentation – Customer Segmentation
+
+### By Number of Orders:
+- **New Customers:** Customers who have only placed one order.
+- **Returning Customers:** Customers who have placed more than one order.
+- **VIP Customers:** Customers with a very high number of orders compared to others.
+
+### By Preferred Product Types:
+- **Healthy Shoppers:** Customers who focus on healthy products (e.g., fruits and vegetables).
+- **Convenience Shoppers:** Customers who purchase ready-to-eat meals or snacks.
+
+### By Basket Size (Number of Products per Order):
+- **Small Basket Customers:** Those who purchase 1–3 products per order.
+- **Medium Basket Customers:** Those who purchase 4–10 products per order.
+- **Large Basket Customers:** Those who purchase more than 10 products per order.
 
 ---
 
-## 📌 Churn Analysis
-- **Churn Rate:** % of customers who become inactive.
-- **Churn Prediction:** Model-based estimation of churn likelihood.
-- **Re-Engagement:** Strategies to win back at-risk customers.
+## 📌. Churn Analysis – Lost/Inactive Customers 
+
+- **Last Purchased Product Before Churn:** Identify the last product a customer purchased before they stopped ordering.
+- **Inactive Customer Rate:** Define inactive customers as those who placed only one order or stopped ordering after a few orders, and calculate their percentage out of all customers.
+- **Top Products Bought by Churned Customers:** Analyze which products were commonly purchased by customers before they became inactive.
+
 
 ---
 
